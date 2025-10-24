@@ -2,6 +2,9 @@ my-online-radio-player
 ====================
 ![](https://github.com/dirkarnez/portaudio-playground/actions/workflows/build.yml/badge.svg)
 
+### Tutorials
+- [dirkarnez/emscripten-audio-decoder](https://github.com/dirkarnez/emscripten-audio-decoder)
+
 ### Using
 - [dirkarnez/portaudio-prebuilt](https://github.com/dirkarnez/portaudio-prebuilt)
 
