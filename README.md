@@ -17,6 +17,14 @@ my-online-radio-player
   - refer to [dirkarnez/sdcc-playground](https://github.com/dirkarnez/sdcc-playground)
 - [ ] Study [obsproject/obs-plugintemplate](https://github.com/obsproject/obs-plugintemplate)
 
+### TODOs
+- [ ] Support web-based radio
+  - bootcamp
+    - ```bash
+      curl 'https://bandcamp.com/api/bcradio_api/1/get_show' \
+        -H 'content-type: application/json; charset=UTF-8' \
+        --data-raw '{"id":885}'
+      ```
 
 ### CMake docs
 - [cmake-properties(7) — CMake 3.31.3 Documentation](https://cmake.org/cmake/help/latest/manual/cmake-properties.7.html#target-properties)
